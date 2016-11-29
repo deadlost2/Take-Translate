@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Take &amp; Translate</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_dialog_description">Image Preview</string>
+    <string name="authors">Sami Emad (samiemad92@gmail.com)</string>
+
+</resources>
